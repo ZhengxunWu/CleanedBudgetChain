@@ -37,6 +37,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 ## preview of the app 
+![welcome page] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/57536352f7934792a7edc6a564b0621.png=250*300)
+![before added] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/cff2671fbe39b4cdec61e31d5742d96.png=250*300)
+![iniitialize campaign] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/453fe62a33c6fc9775beec7eb1353c4.png=250*300)
+![new campaign added] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/6b83d0a02fd41c0bb93b38e480480a0.png =250*300)
 
 ## Learn More
 
@@ -46,8 +50,12 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 Youtube demo video: https://youtu.be/ezRfxaAnIDM
 
-This is a Dapp designed for organizations in which the trust is difficult to build among different group of people. It uses smart contract to control money flow, upload each money transfer to Ethereum blockchain, a vote system that
-
+### Theory and technology we use in this project
+This is a Dapp designed for organizations in which the trust is difficult to build among different group of people. It uses smart contract to control money flow, uploads each money transfer as one transaction to Ethereum blockchain, supports a vote system that ensures fairness, and thus provides a distributed, immutable and consistent series of logs that greatly reduce possibility of fraud and cheating behaviour. 
+Technology used: 
+ Ethereum related: Solidity, smart contract, web3, metamask, other APIs
+ Usual tech: javascript, react, semantics-ui, ant, data visulisation, other APIs
+ Math: cryptography, hash
 
 ### Code Splitting
 
@@ -64,10 +72,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/ma
 ### Advanced Configuration
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
 ### `npm run build` fails to minify
 

@@ -43,6 +43,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+Youtube demo video: https://youtu.be/ezRfxaAnIDM
+
+This is a Dapp designed for organizations in which the trust is difficult to build among different group of people. It uses smart contract to control money flow, upload each money transfer to Ethereum blockchain, a vote system that
+
+
 ### Code Splitting
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting

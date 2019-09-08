@@ -37,10 +37,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 ## preview of the app 
-![welcome page] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/57536352f7934792a7edc6a564b0621.png=250*300)
-![before added] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/cff2671fbe39b4cdec61e31d5742d96.png=250*300)
-![iniitialize campaign] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/453fe62a33c6fc9775beec7eb1353c4.png=250*300)
-![new campaign added] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/6b83d0a02fd41c0bb93b38e480480a0.png =250*300)
+![welcome Image] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/57536352f7934792a7edc6a564b0621.png=250*300)
+![before Image] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/cff2671fbe39b4cdec61e31d5742d96.png=250*300)
+![iniitialize Image] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/453fe62a33c6fc9775beec7eb1353c4.png=250*300)
+![new campaign Image] (https://github.com/ZhengxunWu/CleanedBudgetChain/blob/master/6b83d0a02fd41c0bb93b38e480480a0.png =250*300)
 
 ## Learn More
 
